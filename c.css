@@ -1,0 +1,40 @@
+.seta {
+    position: absolute;
+    height: 50px;
+    width: auto;
+    top: 190%;
+    left: 10%;
+  }
+ 
+  footer {
+    background-color: black;
+    color: bisque;
+    text-align: center;
+    display: flex;
+    align-items: flex-start;
+    padding-top: 3%;
+  }
+ 
+ p.rede{
+   font-size: 200%;
+ }
+ 
+  img.mini {
+    height: 100px;
+    width: auto;
+    /* position: absolute; */
+    top: 100%;
+  }
+ 
+  .footer {
+ 
+    display: flex;
+    justify-content: space-around;
+  }
+ 
+  p.down{
+   position: absolute;
+   left: 5%;
+   bottom: -122.5%;
+   color: rgb(75, 75, 75);
+  }
